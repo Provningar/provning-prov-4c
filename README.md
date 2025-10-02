@@ -1,10 +1,10 @@
 # Prov 4c
 
 ## Inspelning av hela provet krävs för godkänt betyg
-1. Starta inspelningen i **Chronicler**
+1. Starta inspelningen i **OBS STudio**
 1. Arbeta med uppgiften
 1. När du är klar **commit & sync**
-1. Stoppa inspelningen i **Chronicler** och lämna in videon på **Classroom**
+1. Stoppa inspelningen och lämna in videon på **Classroom**
 
 ## Provet
 
@@ -13,9 +13,12 @@
 ### Uppgift
 - Skapa en sida som ser ut som skärmdumpen ovan.
 - Sidan skall vara **800px bred och centrerad**.
-- Använd typsnittet **"Playfair Display"** från Google Fonts: 
+- Importera typsnittet **"Playfair Display"** från Google Fonts: 
 ```css
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+```
+- Använd typsnittet **"Playfair Display"**: 
+```css
 font-family: "Playfair Display", serif;
 ```
 - Länka **"Dansens Hus"** till den riktiga webbplatsen: https://dansenshus.se

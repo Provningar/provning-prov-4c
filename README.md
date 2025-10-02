@@ -65,6 +65,12 @@ img {
 
 > Här är en översikt över biljettpriserna för olika platstyper och rabatter vid våra föreställningar:
 
+> En fantastisk dansföreställning som visar modern dans på sitt bästa. Pris: 450 kr
+
+> En gripande föreställning som utforskar mänskliga känslor genom rörelse. Pris: 500 kr
+
+> En energisk och färgstark uppvisning av samtida dans. Pris: 400 kr
+
 ### Färger som används
 
 * <code style="background:#725b79; color:#fff">#725b79</code>

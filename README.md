@@ -61,9 +61,9 @@ img {
 ## Material som används
 
 ### Text som används
-> "Dansens Hus är Sveriges största scen för samtida dans. Vi erbjuder ett varierat program med allt från internationella föreställningar till svenska premiärer. Se till att boka dina biljetter i tid för att säkra din plats på några av säsongens mest spännande uppsättningar."
+> Dansens Hus är Sveriges största scen för samtida dans. Vi erbjuder ett varierat program med allt från internationella föreställningar till svenska premiärer. Se till att boka dina biljetter i tid för att säkra din plats på några av säsongens mest spännande uppsättningar.
 
-> "Här är en översikt över biljettpriserna för olika platstyper och rabatter vid våra föreställningar:"
+> Här är en översikt över biljettpriserna för olika platstyper och rabatter vid våra föreställningar:
 
 ### Färger som används
 

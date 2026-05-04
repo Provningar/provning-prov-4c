@@ -18,8 +18,10 @@
     "workbench.editorAssociations": {
         "*.md": "vscode.markdown.preview.editor"
     },
-    "chronicler.recording-defaults": {
-        "fps": 3,
-        "countdown": 0,
-    }
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
 }
